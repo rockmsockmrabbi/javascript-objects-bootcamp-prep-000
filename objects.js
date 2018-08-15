@@ -1,4 +1,4 @@
 var playlist = new Object({
-  Slowdive: "Alison"
+  playlist[Slowdive: "Alison"
   MyBloodyValentine: "Sometimes"
 });
