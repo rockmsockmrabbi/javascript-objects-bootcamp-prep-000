@@ -1,2 +1,2 @@
-var playlist = {Slowdive: 'Alison', My Bloody Valentine: ''};
+var playlist = {Slowdive: 'Alison'};
 
