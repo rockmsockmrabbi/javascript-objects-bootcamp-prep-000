@@ -1,11 +1,10 @@
 var playlist = {
   Slowdive: 'Alison',
-  My Bloody Valentine: 'Sometimes',
-  Phil Ochs: "Here's to the State of Mississippi"
+  My Bloody Valentine: 'Sometimes'
 };
 function updatePlaylist(playlist, artistName, songName){
 return Object.assign({}, obj, {[key]: value})
 }
-function removeFromPlaylist(obj, key){
+function removeFromPlaylist(playlist, artistName){
   return 
 }
