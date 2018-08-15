@@ -1,10 +1,9 @@
 var playlist = {
-  Slowdive: 'Alison',
-  My Bloody Valentine: 'Sometimes'
+  Slowdive: 'Alison'
 };
 function updatePlaylist(playlist, artistName, songName){
-return Object.assign(playlist, artistName, songName)
-};
+return Object.assign(playlist, artistName, songName);
+}
 function removeFromPlaylist(playlist, artistName){
-  return Object.assign(playlist, artistName)
-};
+  return Object.assign(playlist, artistName);
+}
